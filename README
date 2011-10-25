@@ -1,0 +1,15 @@
+This repo contains various hacks, kludges, and hairy stuff for
+Symbolics Genera - specifically Symbolics Open Genera running on a
+Virtual Lisp Machine.
+
+The majority of this code will not have a copyright or license
+attributed to it, therefore imagine the MIT license attached to each
+and every file.
+
+If any of this code is useful for anyone, then feel free to let me
+know and by all means send me improvements, or even just send me your
+lispm-init.
+
+Please note that most of these files were written in Zmacs and will
+probably have odd formatting that will look strange when viewed by
+anything else.
